@@ -2,7 +2,7 @@
   - Download the project and run the `docker-compose.yml` file that in the resources directory
   - *Note :* You can see all processes in `localhost:15672`
   - *Note :* Admin credentials are in `docker-compose.yml` file
-  - Then , run the project and follow the terminal
+  - Then , *run* the project and follow the terminal
 
 
 ### Producer
